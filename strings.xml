@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">goblin_lester</string>
+
+    //for Settings_SBA
+    <string name="settings">Settings</string>
+
+    //for sb_alerts
+    <string name="Set_notif">Set a notification or alert to keep you reminded of when to organize your budget.</string>
+    <string name="sb_alert">Set Budget Alerts</string>
+
+    //for FaQs
+    <string name="faqs">Frequently Asked Questions</string>
+    <string name="How_to_change_pass">How to change my password?</string>
+    <string name="where_sb">Where can I set my budget?</string>
+    <string name="How_bl">How is my budget limit?</string>
+    <string name="what_benefits">What are the benefits of Goblin Pro?</string>
+
+    //for weekly_ba
+    <string name="w_budget">Budget</string>
+    <string name="w_end_date">End Date</string>
+    <string name="w_start_date">Start Date</string>
+    <string name="w_alert">Weekly Alert</string>
+    <string name="w_confirm_btn">CONFIRM</string>
+
+    //for monthly_ba
+    <string name="m_budget">Budget</string>
+    <string name="m_end_date">End Date</string>
+    <string name="m_start_date">Start Date</string>
+    <string name="m_alert">Monthly Alert</string>
+    <string name="m_confirm_btn">CONFIRM</string>
+
+    //for budget_alerts
+    <string name="alerts">Budget Alerts</string>
+    <string name="alerts_monthly">Monthly</string>
+    <string name="alerts_weekly">Weekly</string>
+    <string name="alerts_w_sdate">Date ------</string>
+    <string name="alerts_w_edate">Date ------</string>
+    <string name="alerts_w_to">to</string>
+    <string name="alerts_w_php">Php -----</string>
+
+    <string name="alerts_m_sdate">Date ------</string>
+    <string name="alerts_m_edate">Date ------</string>
+    <string name="alerts_m_to">to</string>
+    <string name="alerts_m_php">Php -----</string>
+
+
+
+</resources>
